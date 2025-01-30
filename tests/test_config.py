@@ -1,4 +1,4 @@
-from json_mrc.foo import foo
+from json_mrc.config import foo
 
 
 def test_foo():
